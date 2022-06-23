@@ -1,0 +1,31 @@
+.menu-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid #3b3b3b;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  width: 100%;
+  padding: 28px;
+}
+
+.menu-container .right {
+  display: flex;
+  align-items: center;
+}
+
+.menu-container .center {
+  display: flex;
+  align-items: center;
+}
