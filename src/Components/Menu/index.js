@@ -13,7 +13,7 @@ function Menu() {
         <div className="center">
           <a href="https://www.frontacademy.com.br/">
 
-           <Button> StarterPack123</Button>
+           <Button> StarterPack</Button>
           </a>
 
           <Button>Evolution</Button>
