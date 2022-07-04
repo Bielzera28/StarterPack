@@ -1,0 +1,30 @@
+.user-image__container {
+  position: absolute;
+}
+
+.center-content__container__left__content {
+  margin-top: 80px;
+}
+
+.user-info .user-info__content {
+  display: flex;
+  align-items: center;
+}
+
+.user-info .user-info__content >*:not(:first-child) {
+  margin-left: 10px;
+}
+
+.user-info {
+  margin-bottom: 20px;
+}
+
+.user-info__content .user-info__content__container {
+  display: flex;
+  justify-content: center;
+  width: 20px;
+}
+
+.user-info >*:not(:first-child) {
+  margin-top: 10px;
+}

@@ -1,0 +1,17 @@
+.user-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid #43B0FF;
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+    height: 150px;
+    width: 150px;
+    margin-top: -17px;
+    transform: translateY(-50%);
+}
+
+.user-image img {
+    height: 105%;
+}
