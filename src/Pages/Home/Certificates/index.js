@@ -16,9 +16,9 @@ function Certificates () {
 
     <div className="certificates_content">
      <Certificate 
-     autheticationCode="123456789#g"
+     autheticationCode="Conclusão : 05/07/2022"
      imageUrl={StarterPack}
-     link="https://www.frontacademy.com.br/starter-pack/"
+     link="https://starterpack-frontacademy.club.hotmart.com/public/user-certificate/d2eeb48a-2cfe-4beb-971a-6c547b52a3f5/_"
      title="Starter Pack"
      subTitle="Front Academy, 2022"
      />

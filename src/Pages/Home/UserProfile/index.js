@@ -23,7 +23,7 @@ export default function UserProfile() {
           </Heading>
 
           <Heading fontSize={20} color="#5DB9FA">
-            Junior, 6 meses de experiência
+            Junior, 3 meses de experiência
           </Heading>
         </div>
 
