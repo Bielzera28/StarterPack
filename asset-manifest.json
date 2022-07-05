@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/StarterPack/static/css/main.5442a92f.css",
-    "main.js": "/StarterPack/static/js/main.0e5553aa.js",
+    "main.js": "/StarterPack/static/js/main.c909e014.js",
     "static/js/787.28cb0dcd.chunk.js": "/StarterPack/static/js/787.28cb0dcd.chunk.js",
     "static/media/Frontacademy.png": "/StarterPack/static/media/Frontacademy.8050dbfcf90da47930c3.png",
     "static/media/Gabriel_Aguiar_Queiroz.jpg": "/StarterPack/static/media/Gabriel_Aguiar_Queiroz.a7bffc04b28a579e4616.jpg",
@@ -9,11 +9,11 @@
     "static/media/Azonix.woff": "/StarterPack/static/media/Azonix.18058c96d53ad2f9f2a3.woff",
     "index.html": "/StarterPack/index.html",
     "main.5442a92f.css.map": "/StarterPack/static/css/main.5442a92f.css.map",
-    "main.0e5553aa.js.map": "/StarterPack/static/js/main.0e5553aa.js.map",
+    "main.c909e014.js.map": "/StarterPack/static/js/main.c909e014.js.map",
     "787.28cb0dcd.chunk.js.map": "/StarterPack/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5442a92f.css",
-    "static/js/main.0e5553aa.js"
+    "static/js/main.c909e014.js"
   ]
 }
