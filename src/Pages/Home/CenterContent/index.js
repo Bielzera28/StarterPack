@@ -1,4 +1,4 @@
-import Card from "../../../Components/Card";
+import Certificates from "../Certificates";
 import LastProjects from "../LastProjects";
 import Tecnologies from "../Tecnologies";
 import UserProfile from "../UserProfile";
@@ -10,13 +10,13 @@ function CenterContent() {
   return (
   <div className="center-content__container">
     <div className="center-content__container__left">
-        <UserProfile />
+        <UserProfile height={100} />
     </div>
 
     <div className="center-content__container__right">
         <Tecnologies />
         <LastProjects />
-        <Card>Card 3</Card>
+        <Certificates />
     </div>
   </div>
   )

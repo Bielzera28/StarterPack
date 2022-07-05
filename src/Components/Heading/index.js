@@ -1,8 +1,8 @@
 import "./styles.css";
 
-function heading({children , color , fontSize , fontWeight}) {
+function heading({children , color , fontSize , fontWeight, fontFamily}) {
   return (
-  <div style ={{color, fontSize, fontWeight}}>
+  <div style ={{color, fontSize, fontWeight, fontFamily}}>
     { children }
   </div>
   )

@@ -1,8 +1,8 @@
 import "./styles.css";
 
-function Text({children , color}) {
+function Text({children , color , fontSize}) {
   return (
-   <div style={{color}}>
+   <div style={{color , fontSize }}>
     { children }
   </div>
   )

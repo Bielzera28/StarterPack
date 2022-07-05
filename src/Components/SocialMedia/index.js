@@ -8,19 +8,19 @@ function socialMedia() {
   return (
   <div className="social-media-container">
     <a href="https://github.com/Bielzera28" target="_blank" className="social-media-item" rel="noreferrer">
-      <img alt="GitHub" src={GitHub} width={35} />
+      <img alt="GitHub" src={GitHub} />
     </a>
 
     <a href="https://www.linkedin.com/in/gabriel-aguiar-queiroz-788a79243/" target="_blank" className="social-media-item" rel="noreferrer">
-      <img alt="Linkedin" src={Linkedin} width={28} />
+      <img alt="Linkedin" src={Linkedin}  />
     </a>
 
     <a href="aguiar.desenvolvedor@gmail.com" target="_blank" className="social-media-item" rel="noreferrer">
-      <img alt="Gmail" src={Gmail} width={33} />
+      <img alt="Gmail" src={Gmail}  />
     </a>
 
     <a href="#" className="social-media-item" rel="noreferrer">
-      <img alt="CV" src={CV} width={27} />
+      <img alt="CV" src={CV}  />
     </a>
   </div>
   )

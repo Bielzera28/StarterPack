@@ -8,6 +8,20 @@
 }
 
 .last-projects_content {
-    padding-top: 15px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+    padding-right: 90px;
+    
+}
+
+.last-projects_content > *:not(:first-child) {
+    margin-top: 17px;
+}
+
+.last-projects_container .last-projects_wrapper {
+    max-height: 200px;
+    overflow: auto;
 }
 

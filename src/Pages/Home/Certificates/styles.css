@@ -1,0 +1,21 @@
+.certificates_container .certificates_heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #4B4B4B;
+    padding-bottom: 15px;
+
+}
+
+.certificates_content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 15px;
+    padding-right: 90px;
+}
+
+.certificates_content > *:not(:first-child) {
+    padding-top: 17px;
+}
+

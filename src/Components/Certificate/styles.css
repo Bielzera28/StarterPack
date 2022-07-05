@@ -1,0 +1,19 @@
+.certificate-container {
+    display: flex;
+    padding: 13px 40px;
+    text-decoration: none;
+    background-color: #1d1d1d;
+    border-radius: 10px;
+    color: white;
+}
+
+.certificate-container img {
+    width: 70px;
+}
+
+.certificate-container .certificate-right {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 15px;
+    width: 100%;
+}
