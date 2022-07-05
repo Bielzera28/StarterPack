@@ -9,10 +9,9 @@
 
 .certificates_content {
     display: flex;
-    align-items: center;
     flex-direction: column;
     padding-top: 15px;
-    padding-right: 90px;
+    padding-right: 300px;
 }
 
 .certificates_content > *:not(:first-child) {
