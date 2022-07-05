@@ -9,7 +9,7 @@ function Home() {
      <div className="home-container">
          <div className="home-container__content">
             <div>
-              Top
+            
             </div>
 
            <CenterContent />
