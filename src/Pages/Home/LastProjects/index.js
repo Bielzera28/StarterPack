@@ -37,7 +37,6 @@ function LastProjects() {
               link="https://www.frontacademy.com.br/starter-pack/"
               title="Starter Pack - Aprendizado"
             />
-            
           </div>
         </div>
       </div>

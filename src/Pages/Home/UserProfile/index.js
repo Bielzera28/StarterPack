@@ -29,10 +29,9 @@ export default function UserProfile() {
 
         <p>
           <Text>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation. Lorem ipsum dolor sit
-            amet, consectetur.
+           Comecei na área de programação front-end a partir da indicação de alguns amigos próximos e logo me identifiquei, tenho interesse em colher o máximo de conhecimento possível e lapidar os já obtidos.
+           Muito disciplinado e sempre aberto a receber instruções e ajuda, objetivo aproveitar o máximo de todas minhas experiências nessa área e sempre guardar as partes boas para o futuro.
+           Meu Stack atual : HTML5 , CSS3 , JavaScript , ReactJs. 
           </Text>
         </p>
 
