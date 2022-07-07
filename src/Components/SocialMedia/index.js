@@ -15,7 +15,7 @@ function socialMedia() {
       <img alt="Linkedin" src={Linkedin}  />
     </a>
 
-    <a href="aguiar.desenvolvedor@gmail.com" target="_blank" className="social-media-item" rel="noreferrer">
+    <a href="mailto:aguiar.desenvolvedor@gmail.com" target="_blank" className="social-media-item" rel="noreferrer">
       <img alt="Gmail" src={Gmail}  />
     </a>
 
