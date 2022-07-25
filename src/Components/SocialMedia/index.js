@@ -19,7 +19,7 @@ function socialMedia() {
       <img alt="Gmail" src={Gmail}  />
     </a>
 
-    <a href="#" className="social-media-item" rel="noreferrer">
+    <a href="/" className="social-media-item" rel="noreferrer">
       <img alt="CV" src={CV}  />
     </a>
   </div>
