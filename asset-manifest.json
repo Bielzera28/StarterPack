@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.a6dad27c.css",
-    "main.js": "/Portfolio/static/js/main.cbddbc8c.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Portfolio/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Certificado_StarterPack.pdf": "/Portfolio/static/media/Certificado_StarterPack.8dce7a87dca858eb0c69.pdf",
-    "static/media/Frontacademy.png": "/Portfolio/static/media/Frontacademy.8050dbfcf90da47930c3.png",
-    "static/media/Gabriel_Aguiar_Queiroz.jpg": "/Portfolio/static/media/Gabriel_Aguiar_Queiroz.a7bffc04b28a579e4616.jpg",
-    "static/media/front-academy-logo.png": "/Portfolio/static/media/front-academy-logo.a6c10571856202b90c5f.png",
-    "static/media/Azonix.woff": "/Portfolio/static/media/Azonix.18058c96d53ad2f9f2a3.woff",
-    "index.html": "/Portfolio/index.html",
-    "main.a6dad27c.css.map": "/Portfolio/static/css/main.a6dad27c.css.map",
-    "main.cbddbc8c.js.map": "/Portfolio/static/js/main.cbddbc8c.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Portfolio/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/StarterPack/static/css/main.5442a92f.css",
+    "main.js": "/StarterPack/static/js/main.76560418.js",
+    "static/js/787.28cb0dcd.chunk.js": "/StarterPack/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Desafio-1.png": "/StarterPack/static/media/Desafio-1.a0b231032bd0a80a36cb.png",
+    "static/media/Certificado_StarterPack.pdf": "/StarterPack/static/media/Certificado_StarterPack.8dce7a87dca858eb0c69.pdf",
+    "static/media/Frontacademy.png": "/StarterPack/static/media/Frontacademy.8050dbfcf90da47930c3.png",
+    "static/media/Gabriel_Aguiar_Queiroz.jpg": "/StarterPack/static/media/Gabriel_Aguiar_Queiroz.a7bffc04b28a579e4616.jpg",
+    "static/media/front-academy-logo.png": "/StarterPack/static/media/front-academy-logo.a6c10571856202b90c5f.png",
+    "static/media/Azonix.woff": "/StarterPack/static/media/Azonix.18058c96d53ad2f9f2a3.woff",
+    "index.html": "/StarterPack/index.html",
+    "main.5442a92f.css.map": "/StarterPack/static/css/main.5442a92f.css.map",
+    "main.76560418.js.map": "/StarterPack/static/js/main.76560418.js.map",
+    "787.28cb0dcd.chunk.js.map": "/StarterPack/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6dad27c.css",
-    "static/js/main.cbddbc8c.js"
+    "static/css/main.5442a92f.css",
+    "static/js/main.76560418.js"
   ]
 }
