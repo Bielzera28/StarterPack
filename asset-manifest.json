@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/StarterPack/static/css/main.5442a92f.css",
-    "main.js": "/StarterPack/static/js/main.8ad7d5f3.js",
+    "main.js": "/StarterPack/static/js/main.27e55321.js",
     "static/js/787.28cb0dcd.chunk.js": "/StarterPack/static/js/787.28cb0dcd.chunk.js",
     "static/media/Desafio-1.png": "/StarterPack/static/media/Desafio-1.24a129d63f6f076c3d18.png",
     "static/media/Certificado_StarterPack.pdf": "/StarterPack/static/media/Certificado_StarterPack.8dce7a87dca858eb0c69.pdf",
     "static/media/Frontacademy.png": "/StarterPack/static/media/Frontacademy.8050dbfcf90da47930c3.png",
+    "static/media/Desafio-2.png": "/StarterPack/static/media/Desafio-2.402ca8f14fd607d484ea.png",
     "static/media/Gabriel_Aguiar_Queiroz.jpg": "/StarterPack/static/media/Gabriel_Aguiar_Queiroz.a7bffc04b28a579e4616.jpg",
     "static/media/front-academy-logo.png": "/StarterPack/static/media/front-academy-logo.a6c10571856202b90c5f.png",
     "static/media/Azonix.woff": "/StarterPack/static/media/Azonix.18058c96d53ad2f9f2a3.woff",
     "index.html": "/StarterPack/index.html",
     "main.5442a92f.css.map": "/StarterPack/static/css/main.5442a92f.css.map",
-    "main.8ad7d5f3.js.map": "/StarterPack/static/js/main.8ad7d5f3.js.map",
+    "main.27e55321.js.map": "/StarterPack/static/js/main.27e55321.js.map",
     "787.28cb0dcd.chunk.js.map": "/StarterPack/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5442a92f.css",
-    "static/js/main.8ad7d5f3.js"
+    "static/js/main.27e55321.js"
   ]
 }
