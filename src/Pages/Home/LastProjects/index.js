@@ -1,4 +1,5 @@
 import Desafio1 from "./assets/Desafio-1.png";
+import Desafio2 from "./assets/Desafio-2.png";
 import Card from "../../../Components/Card";
 import FrontAcademy from "./assets/Frontacademy.png";
 import Heading from "../../../Components/Heading";
@@ -34,9 +35,9 @@ function LastProjects() {
             />
 
             <Project
-              imageUrl={FrontAcademy}
-              link="https://www.frontacademy.com.br/starter-pack/"
-              title="Starter Pack - Aprendizado"
+              imageUrl={Desafio2}
+              link="https://bielzera28.github.io/Desafio2/"
+              title="Projeto - Rachi"
             />
           </div>
         </div>
