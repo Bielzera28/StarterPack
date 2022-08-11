@@ -3,6 +3,7 @@ import CV from "./assets/CV.png";
 import GitHub from "./assets/GitHub.png";
 import Gmail from "./assets/Gmail.png";
 import Linkedin from "./assets/Linkedin.png";
+import Curriculo from "./assets/cv.pdf";
 
 function socialMedia() {
   return (
@@ -19,7 +20,7 @@ function socialMedia() {
       <img alt="Gmail" src={Gmail}  />
     </a>
 
-    <a href="/" className="social-media-item" rel="noreferrer">
+    <a href={Curriculo} target="_blank" className="social-media-item" rel="noreferrer">
       <img alt="CV" src={CV}  />
     </a>
   </div>

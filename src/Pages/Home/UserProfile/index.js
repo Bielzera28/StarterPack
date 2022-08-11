@@ -23,15 +23,18 @@ export default function UserProfile() {
           </Heading>
 
           <Heading fontSize={20} color="#5DB9FA">
-            Junior, 3 meses de experiência
+            Junior, 6 meses de experiência
           </Heading>
         </div>
 
         <p>
           <Text>
-           Comecei na área de programação front-end a partir da indicação de alguns amigos próximos e logo me identifiquei, tenho interesse em colher o máximo de conhecimento possível e lapidar os já obtidos.
-           Muito disciplinado e sempre aberto a receber instruções e ajuda, objetivo aproveitar o máximo de todas minhas experiências nessa área e sempre guardar as partes boas para o futuro.
-           Meu Stack atual : HTML5 , CSS3 , JavaScript , ReactJs. 
+            Desenvolvedor Front-end, apaixonado por novos desafios e super
+            focado em aprender, hoje disponibilizo 100% do meu tempo para
+            trabalhar e aperfeiçoar todos os conhecimentos obtidos dentro da
+            área. Muito disciplinado e sempre aberto a receber instruções e
+            ajuda, objetivo aproveitar o máximo de todas minhas experiências e
+            me tornar o melhor desenvolvedor possível.
           </Text>
         </p>
 

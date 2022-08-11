@@ -10,13 +10,13 @@
     max-width: 1201px;
     margin: 0 auto;
     min-height: 100vh;
-    padding-top: 20px;
+    padding-top: 60px;
 }
 
 .home-container__content .home-container__content__bottom {
     display: flex;
     align-items: center;
-    margin: 20px auto;
+    margin: 0 auto 30px;
 
 }
 

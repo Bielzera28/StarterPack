@@ -5,6 +5,7 @@ import Heading from "../../../Components/Heading";
 import HTML5 from "./assets/HTML5.png";
 import JavaScript from "./assets/JavaScript.png";
 import ReactImage from "./assets/React.png";
+import SASS from "./assets/SASS.png";
 
 
 
@@ -23,6 +24,7 @@ function Tecnologies({children}) {
      <img alt="JavaScript" src={JavaScript} width={43} />
      <img alt="React" src={ReactImage} width={110} />
      <img alt="Git" src={Git} width={40} />
+     <img alt="SASS" src={SASS} width={50} />
     </div>
    </div>
   </Card>

@@ -4,6 +4,8 @@ import Card from "../../../Components/Card";
 import FrontAcademy from "./assets/Frontacademy.png";
 import Heading from "../../../Components/Heading";
 import Project from "../../../Components/Project";
+import SASSagency from "./assets/SASSagency.png";
+import SASSelectrum from "./assets/SASSelectrum.png";
 
 import "./styles.css";
 
@@ -31,13 +33,25 @@ function LastProjects() {
             <Project
               imageUrl={Desafio1}
               link="https://bielzera28.github.io/Desafio-1/"
-              title="Projeto - HOMEYOU"
+              title="Desafio iniciante - Homeyou"
             />
 
             <Project
               imageUrl={Desafio2}
               link="https://bielzera28.github.io/Desafio2/"
-              title="Projeto - Rachi"
+              title="Desafio Iniciante - Rachi"
+            />
+
+            <Project
+              imageUrl={SASSagency}
+              link="https://bielzera28.github.io/SASSagency/"
+              title="Projeto SASS - Agency"
+            />
+
+            <Project
+              imageUrl={SASSelectrum}
+              link="https://bielzera28.github.io/SASSelectrum/"
+              title="Projeto SASS - Electrum"
             />
           </div>
         </div>
