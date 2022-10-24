@@ -5,6 +5,7 @@ import photoStarterPack from "./assets/StarterPack.png";
 import ccStarterPack from "./assets/Certificado_StarterPack.pdf";
 import photoUdemy from "./assets/udemy.png";
 import ccSass from "./assets/Certificado_SASS.pdf";
+import ccJava from "./assets/Certificado_JAVA.pdf";
 
 import "./styles.css";
 
@@ -36,6 +37,14 @@ function Certificates() {
               imageUrl={photoUdemy}
               link={ccSass}
               title="SASS e SCSS"
+              subTitle="Udemy, 2022"
+            />
+
+            <Certificate
+              autheticationCode="Conclusão : 24/10/2022"
+              imageUrl={photoUdemy}
+              link={ccJava}
+              title="JavaScript"
               subTitle="Udemy, 2022"
             />
           </div>
