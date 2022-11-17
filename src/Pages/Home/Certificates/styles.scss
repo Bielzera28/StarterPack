@@ -1,11 +1,10 @@
 @mixin mobile {
     @media (max-width: 500px) {
-      @content;
+        @content;
     }
-  }
+}
 
 .certificates_container {
-    
     .certificates_heading {
         display: flex;
         align-items: center;

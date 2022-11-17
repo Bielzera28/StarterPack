@@ -22,7 +22,7 @@ function Tecnologies({children}) {
      <img alt="HTML5" src={HTML5} width={49} />
      <img alt="CSS3" src={CSS3} width={49} />
      <img alt="JavaScript" src={JavaScript} width={43} />
-     <img alt="React" src={ReactImage} width={110} />
+     <img alt="React" src={ReactImage} width={110} id="react"/>
      <img alt="Git" src={Git} width={40} />
      <img alt="SASS" src={SASS} width={50} />
     </div>
