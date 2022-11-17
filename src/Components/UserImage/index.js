@@ -1,5 +1,5 @@
 import FotoGabriel from "./assets/Gabriel_Aguiar_Queiroz.jpg";
-import "./styles.css";
+import "./styles.scss";
 
 function userImage() {
   return (

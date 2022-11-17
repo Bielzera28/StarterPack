@@ -1,4 +1,4 @@
-import "./styles.css";
+import "./styles.scss";
 import CV from "./assets/CV.png";
 import GitHub from "./assets/GitHub.png";
 import Gmail from "./assets/Gmail.png";

@@ -1,0 +1,48 @@
+@mixin mobile {
+  @media (max-width: 500px) {
+    @content;
+  }
+}
+ 
+.center-content__container {
+  display: flex;
+
+  @include mobile {
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .center-content__container__left {
+    flex: 2;
+    width: 100%;
+
+    @include mobile {
+      width: 85%;
+      margin-top: 30px;
+    }
+  }
+
+  .center-content__container__right {
+    flex: 3;
+    width: 100%;
+    margin-left: 30px;
+
+    @include mobile {
+      margin-left: 0px;
+    }
+
+    > * {
+      &:not(:first-child) {
+        margin-top: 17px;
+      }
+
+      @include mobile {
+        margin-top: 17px;
+      }
+    }
+
+    @include mobile {
+      margin-left: none;
+    }
+  }
+}

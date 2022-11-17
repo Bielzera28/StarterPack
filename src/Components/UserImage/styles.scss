@@ -1,8 +1,14 @@
+@mixin mobile {
+    @media (max-width: 500px) {
+      @content;
+    }
+  }
+
 .user-image {
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 5px solid #43B0FF;
+    border: 5px solid #43b0ff;
     border-radius: 50%;
     overflow: hidden;
     position: relative;
@@ -10,8 +16,12 @@
     width: 150px;
     margin-top: -17px;
     transform: translateY(-50%);
-}
 
-.user-image img {
-    height: 105%;
+    @include mobile {
+        transform: translate(80%, -50%)
+    }
+
+    img {
+        height: 105%;
+    }
 }

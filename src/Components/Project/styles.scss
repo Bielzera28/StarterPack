@@ -1,0 +1,22 @@
+.project-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border-radius: 10px;
+    background-color: #1d1d1d;
+    overflow: hidden;
+    text-decoration: none;
+    color: white;
+
+    img {
+        height: 70px;
+    }
+
+    .project__text {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 15px;
+        width: 100%;
+    }
+}

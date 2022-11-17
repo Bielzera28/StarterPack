@@ -1,7 +1,7 @@
 import Logo from "../../Components/Logo/index";
 import Text from "../../Components/Text/index";
 import CenterContent from "./CenterContent";
-import "./styles.css";
+import "./styles.scss";
 
 
 function Home() {

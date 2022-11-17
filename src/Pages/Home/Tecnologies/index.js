@@ -9,7 +9,7 @@ import SASS from "./assets/SASS.png";
 
 
 
-import "./styles.css";
+import "./styles.scss";
 
 function Tecnologies({children}) {
   return (

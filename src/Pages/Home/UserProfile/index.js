@@ -7,7 +7,7 @@ import Telefone from "../../../Components/Icons/Telefone";
 import Text from "../../../Components/Text";
 import UserImage from "../../../Components/UserImage";
 
-import "./styles.css";
+import "./styles.scss";
 
 export default function UserProfile() {
   return (

@@ -1,4 +1,4 @@
-import "./styles.css";
+import "./styles.scss";
 
 function card({children, height, paddingBottom = 15}) {
   return (

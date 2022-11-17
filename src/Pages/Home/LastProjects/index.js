@@ -7,7 +7,7 @@ import Project from "../../../Components/Project";
 import SASSagency from "./assets/SASSagency.png";
 import SASSelectrum from "./assets/SASSelectrum.png";
 
-import "./styles.css";
+import "./styles.scss";
 
 function LastProjects() {
   return (

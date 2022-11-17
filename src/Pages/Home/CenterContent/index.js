@@ -4,7 +4,7 @@ import Tecnologies from "../Tecnologies";
 import UserProfile from "../UserProfile";
 
 
-import "./styles.css";
+import "./styles.scss";
 
 function CenterContent() {
   return (

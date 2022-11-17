@@ -7,7 +7,7 @@ import photoUdemy from "./assets/udemy.png";
 import ccSass from "./assets/Certificado_SASS.pdf";
 import ccJava from "./assets/Certificado_JAVA.pdf";
 
-import "./styles.css";
+import "./styles.scss";
 
 function Certificates() {
   return (

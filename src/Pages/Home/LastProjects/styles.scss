@@ -1,0 +1,28 @@
+.last-projects_container {
+    .last-projects_heading {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border-bottom: 1px solid #4b4b4b;
+        padding-bottom: 15px;
+    }
+
+    .last-projects_wrapper {
+        max-height: 200px;
+        overflow: auto;
+
+        .last-projects_content {
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            padding-top: 10px;
+            padding-right: 90px;
+
+            > * {
+                &:not(:first-child) {
+                    margin-top: 17px;
+                }
+            }
+        }
+    }
+}

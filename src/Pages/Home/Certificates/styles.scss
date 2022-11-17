@@ -1,0 +1,38 @@
+@mixin mobile {
+    @media (max-width: 500px) {
+      @content;
+    }
+  }
+
+.certificates_container {
+    
+    .certificates_heading {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border-bottom: 1px solid #4b4b4b;
+        padding-bottom: 15px;
+    }
+
+    .certificates-wrapper {
+        overflow: auto;
+
+        .certificates_content {
+            display: flex;
+            flex-direction: column;
+            padding-top: 15px;
+            padding-right: 300px;
+            max-height: 150px;
+
+            > * {
+                &:not(:first-child) {
+                    margin-top: 17px;
+                }
+            }
+
+            @include mobile {
+                width: 600px;
+            }
+        }
+    }
+}

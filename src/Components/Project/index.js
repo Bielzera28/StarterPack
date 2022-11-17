@@ -1,6 +1,6 @@
 import Text from "../Text";
 
-import "./styles.css";
+import "./styles.scss";
 
 function project({imageUrl, title, link}) {
   return (

@@ -1,4 +1,4 @@
-import "./styles.css";
+import "./styles.scss";
 
 function Button(props) {
   const children = props.children;

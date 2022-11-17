@@ -1,0 +1,60 @@
+@mixin mobile {
+  @media (max-width: 500px) {
+    @content;
+  }
+}
+
+.user-image__container {
+  position: absolute;
+}
+
+.center-content__container__left__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  padding-top: 80px;
+
+  @include mobile {
+    align-items: center;
+    text-align: center;
+  }
+
+  .espacamento {
+    padding-bottom: 15px;
+  }
+}
+
+.user-info {
+  margin-bottom: 20px;
+
+  @include mobile {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+
+  > * {
+    &:not(:first-child) {
+      margin-top: 10px;
+    }
+  }
+
+  .user-info__content {
+    display: flex;
+    align-items: center;
+
+    .user-info__content__container {
+      display: flex;
+      align-items: center;
+      width: 20px;
+    }
+
+    > * {
+      &:not(:first-child) {
+        margin-left: 5px;
+      }
+    }
+  }
+}
