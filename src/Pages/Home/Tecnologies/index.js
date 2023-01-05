@@ -7,8 +7,6 @@ import JavaScript from "./assets/JavaScript.png";
 import ReactImage from "./assets/React.png";
 import SASS from "./assets/SASS.png";
 
-
-
 import "./styles.scss";
 
 function Tecnologies({children}) {
@@ -22,7 +20,7 @@ function Tecnologies({children}) {
      <img alt="HTML5" src={HTML5} width={49} />
      <img alt="CSS3" src={CSS3} width={49} />
      <img alt="JavaScript" src={JavaScript} width={43} />
-     <img alt="React" src={ReactImage} width={110} id="react"/>
+     <img alt="React" src={ReactImage} width={110} className="react-image"/>
      <img alt="Git" src={Git} width={40} />
      <img alt="SASS" src={SASS} width={50} />
     </div>

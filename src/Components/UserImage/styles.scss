@@ -1,5 +1,5 @@
 @mixin mobile {
-    @media (max-width: 500px) {
+    @media (max-width: 550px) {
       @content;
     }
   }
@@ -18,7 +18,7 @@
     transform: translateY(-50%);
 
     @include mobile {
-        transform: translate(80%, -50%)
+        transform: translate(90%, -50%)
     }
 
     img {
