@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/StarterPack/static/css/main.804a5f2c.css",
+    "main.css": "/StarterPack/static/css/main.7baef53d.css",
     "main.js": "/StarterPack/static/js/main.95ef90c9.js",
     "static/js/787.28cb0dcd.chunk.js": "/StarterPack/static/js/787.28cb0dcd.chunk.js",
     "static/media/SASSagency.png": "/StarterPack/static/media/SASSagency.e8fd3adc58ec5482b7e7.png",
@@ -18,12 +18,12 @@
     "static/media/SASS.png": "/StarterPack/static/media/SASS.e9b634fe07a0a03f7871.png",
     "static/media/Azonix.woff": "/StarterPack/static/media/Azonix.18058c96d53ad2f9f2a3.woff",
     "index.html": "/StarterPack/index.html",
-    "main.804a5f2c.css.map": "/StarterPack/static/css/main.804a5f2c.css.map",
+    "main.7baef53d.css.map": "/StarterPack/static/css/main.7baef53d.css.map",
     "main.95ef90c9.js.map": "/StarterPack/static/js/main.95ef90c9.js.map",
     "787.28cb0dcd.chunk.js.map": "/StarterPack/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.804a5f2c.css",
+    "static/css/main.7baef53d.css",
     "static/js/main.95ef90c9.js"
   ]
 }
