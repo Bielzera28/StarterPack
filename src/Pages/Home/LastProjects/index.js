@@ -6,6 +6,7 @@ import Heading from "../../../Components/Heading";
 import Project from "../../../Components/Project";
 import SASSagency from "./assets/SASSagency.png";
 import SASSelectrum from "./assets/SASSelectrum.png";
+import TodoProject from "./assets/todo.png";
 
 import "./styles.scss";
 
@@ -45,13 +46,19 @@ function LastProjects() {
             <Project
               imageUrl={SASSagency}
               link="https://bielzera28.github.io/SASSagency/"
-              title="Projeto SASS - Agency"
+              title="Projeto SASS - Agency + Responsivo"
             />
 
             <Project
               imageUrl={SASSelectrum}
               link="https://bielzera28.github.io/SASSelectrum/"
-              title="Projeto SASS - Electrum"
+              title="Projeto SASS - Electrum + Responsivo"
+            />
+
+            <Project
+              imageUrl={TodoProject}
+              link="https://to-do-list-six-theta.vercel.app"
+              title="Projeto React - To Do List"
             />
           </div>
         </div>
