@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/StarterPack/static/css/main.7baef53d.css",
-    "main.js": "/StarterPack/static/js/main.2e864a3a.js",
+    "main.js": "/StarterPack/static/js/main.59469d84.js",
     "static/js/787.28cb0dcd.chunk.js": "/StarterPack/static/js/787.28cb0dcd.chunk.js",
     "static/media/SASSagency.png": "/StarterPack/static/media/SASSagency.e8fd3adc58ec5482b7e7.png",
+    "static/media/todo.png": "/StarterPack/static/media/todo.fdadd49f890c28ac78a2.png",
     "static/media/Desafio-1.png": "/StarterPack/static/media/Desafio-1.24a129d63f6f076c3d18.png",
     "static/media/SASSelectrum.png": "/StarterPack/static/media/SASSelectrum.3eece195fe6f41117b97.png",
     "static/media/Certificado_StarterPack.pdf": "/StarterPack/static/media/Certificado_StarterPack.8dce7a87dca858eb0c69.pdf",
@@ -19,11 +20,11 @@
     "static/media/Azonix.woff": "/StarterPack/static/media/Azonix.18058c96d53ad2f9f2a3.woff",
     "index.html": "/StarterPack/index.html",
     "main.7baef53d.css.map": "/StarterPack/static/css/main.7baef53d.css.map",
-    "main.2e864a3a.js.map": "/StarterPack/static/js/main.2e864a3a.js.map",
+    "main.59469d84.js.map": "/StarterPack/static/js/main.59469d84.js.map",
     "787.28cb0dcd.chunk.js.map": "/StarterPack/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7baef53d.css",
-    "static/js/main.2e864a3a.js"
+    "static/js/main.59469d84.js"
   ]
 }
